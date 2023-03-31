@@ -1,0 +1,4 @@
+apiVersion: v1
+description: kube-proxy
+name: semantic-release-test
+version: 0.1.0
